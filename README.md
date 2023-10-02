@@ -1,24 +1,25 @@
 ### Hi there 👋
 
+I am Andrés, I'm thrilled to welcome you to my GitHub account! 🎉 Here, I share my passion for data analysis, machine learning, and all things data science. 📊💻 As you browse through my repositories, you'll find a collection of exciting projects and algorithms 🚀 I believe in the power of collaboration and knowledge sharing, so feel free to explore, contribute, and collaborate with me on innovative projects that push the boundaries of data science. Together, let's make a difference and uncover the hidden insights within the vast world of data. 🌟
 
+#### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresvdata&hide_rank=true)
 
+#### Main personal projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andresvdata&show_owner=true&repo=Winning-Space-Race-with-Data-Science-SpaceX_Captone-Project-IBM
 )]([https://github.com/anuraghazra/github-readme-stats](https://github.com/andresvdata/Winning-Space-Race-with-Data-Science-SpaceX_Captone-Project-IBM))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresvdata)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andresvdata&show_owner=true&repo=UK-ENERGY-Project
+)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/andresvdata/Winning-Space-Race-with-Data-Science-SpaceX_Captone-Project-IBM](https://github.com/andresvdata/UK-ENERGY-Project)))
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresvdata&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-###  :mailbox: Connect with Me:
+####  :mailbox: Connect with Me:
 <br />
 
 <p align="center">
 
-<a href="https://co.linkedin.com/in/andresvdata"><img src="https://img.shields.io/badge/-Rodrigo%20Arenas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-
-
-
+<a href="https://co.linkedin.com/in/andresvdata"><img src="https://img.shields.io/badge/-andresvdata-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
 <!--
