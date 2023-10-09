@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Andrés, I'm thrilled to welcome you to my GitHub account! 🎉 Here, I share my passion for data analysis, machine learning, and all things data science. 📊💻 As you browse through my repositories, you'll find a collection of exciting projects and algorithms 🚀 I believe in the power of collaboration and knowledge sharing, so feel free to explore, contribute, and collaborate with me on innovative projects that push the boundaries of data science. Together, let's make a difference and uncover the hidden insights within the vast world of data. 🌟
+I am Andrés, I'm thrilled to welcome you to my GitHub account! 🎉 Here, I share my passion for data analysis, machine learning, and all things data science. 📊💻 As you browse through my repositories, you'll find a collection of exciting projects and algorithms 🚀 I believe in the power of collaboration and knowledge sharing, so feel free to explore, contribute, and collaborate with me. 🌟
 
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresvdata&hide_rank=true)
