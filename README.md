@@ -6,8 +6,6 @@ I am Andrés, I'm thrilled to welcome you to my GitHub account! 🎉 Here, I sha
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresvdata&hide_rank=true)
 
 
-#### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresvdata&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ####  :mailbox: Connect with Me:
 <br />
