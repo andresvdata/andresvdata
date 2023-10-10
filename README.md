@@ -5,12 +5,6 @@ I am Andrés, I'm thrilled to welcome you to my GitHub account! 🎉 Here, I sha
 #### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresvdata&hide_rank=true)
 
-#### Main personal projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andresvdata&show_owner=true&repo=Winning-Space-Race-with-Data-Science-SpaceX_Captone-Project-IBM
-)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/andresvdata/Winning-Space-Race-with-Data-Science-SpaceX_Captone-Project-IBM))
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andresvdata&show_owner=true&repo=UK-ENERGY-Project
-)]([[https://github.com/anuraghazra/github-readme-stats](https://github.com/andresvdata/Winning-Space-Race-with-Data-Science-SpaceX_Captone-Project-IBM](https://github.com/andresvdata/UK-ENERGY-Project)))
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresvdata&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
